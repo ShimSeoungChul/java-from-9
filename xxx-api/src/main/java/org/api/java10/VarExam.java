@@ -1,4 +1,4 @@
-package org.api.java10.lec6;
+package org.api.java10;
 
 import java.util.Map;
 
